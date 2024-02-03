@@ -1,3 +1,1 @@
-Mafia Game
-
-Using C
+# Mafia Game
